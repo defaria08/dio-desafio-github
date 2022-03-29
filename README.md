@@ -1,6 +1,7 @@
 # dio-desafio-github
-Desafio de código dobre git/github
+Repositório criado para o Desafio de projeto.
 
 
 ##Links Uteis
-[sintaxe baseica markdown](https://www.markdownguide.org/basic-syntax/)
+
+[sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
